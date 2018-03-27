@@ -1,0 +1,224 @@
+{
+	"BookACab": {
+		"intentname": "BookACab",
+		"Parameters": [{
+				"name": "01cabService",
+				"placeholder": "$01cabService",
+				"required": "True",
+				"prompts": [
+					"Do you want me to book a cab for you?",
+					"press Quit/exit to stop the process"
+				],
+				"context": "CabBook_dialog_From"
+			},
+			{
+				"name": "02passenger",
+				"placeholder": "$02passenger",
+				"required": "True",
+				"prompts": [
+					"please enter your name"
+					],
+				"context": "CabBook_pname"
+			},
+			{
+				"name": "03customerNumber",
+				"placeholder": "$03customerNumber",
+				"required": "True",
+				"prompts": [
+					"Please provide your mobile number"
+					],
+				"context": "CabBook_pnum"
+			},
+			{
+				"name": "04customerMail",
+				"placeholder": "$04customerMail",
+				"required": "True",
+				"prompts": [
+					"Please enter your mail ID"
+					],
+				"context": "CabBook_pmail"
+			},
+			{
+				"name": "06customerDropoff",
+				"placeholder": "$06customerDropoff",
+				"required": "True",
+				"prompts": [
+					"Your pickup location is Hyderabad airport. please enter your place of dropping"
+					],
+				"context": "CabBook_drop"
+			},
+			{
+				"name": "07numofPassengers",
+				"placeholder": "$07numofPassengers",
+				"required": "True",
+				"prompts": [
+					"Enter number of persons for which you want our cab service"
+					],
+				"context": "CabBook_numofp"
+			},
+			{
+				"name": "08lugguage",
+				"placeholder": "$08lugguage",
+				"required": "True",
+				"prompts": [
+					"Do you want our cab to take your lugguage also?"
+				],
+				"context": "CabBook_lugguage"
+			},
+			{
+				"name": "09cabPricing",
+				"placeholder": "$09cabPricing",
+				"required": "True",
+				"prompts": [
+					"Ok..Based on your metrics our cab price is 500 INR. Do you like to make payment",
+					"Ok..Based on your metrics our cab price is 100 INR. Do you like to make payment",
+					"Ok..Based on your metrics our cab price is 150 INR. Do you like to make payment",
+					"Ok..Based on your metrics our cab price is 200 INR. Do you like to make payment",
+					"Ok..Based on your metrics our cab price is 250 INR. Do you like to make payment",
+					"Ok..Based on your metrics our cab price is 300 INR. Do you like to make payment",
+					"Ok..Based on your metrics our cab price is 400 INR. Do you like to make payment"
+					],
+				"context": "CabBook_price"
+			},
+			{
+				"name": "10cabPayment",
+				"placeholder": "$10cabPayment",
+				"required": "True",
+				"prompts": [
+					"Please enter your paytm number"
+					],
+				"context": "CabBook_payment"
+			},
+			{
+				"name": "11bookingConfirmation",
+				"placeholder": "$11bookingConfirmation",
+				"required": "True",
+				"prompts": [
+					"Ur payment was received and ur booking was confirmed\nHere are your booking details\nCab number: TS09EU8529\nDriver Name: Nagraj\nCab type: Maruthi swift\nOTP: 123456\nDriver Mobile number: 9848032919\nEnjoy ur ride",
+					"Ur payment was received and ur booking was confirmed\nHere are your booking details\nCab number: AP09EU8557\nDriver Name: Appa Rao\nCab type: Santro\nOTP: 456123\nDriver Mobile number: 9848991999\nEnjoy ur ride"
+					],
+				"context": "CabBook_confirmation"
+			}
+		],
+		"actions": "CabBookingDone"
+	},
+	"BookTableRestaurant":{
+      "intentname":"BookTableRestaurant",
+      "Parameters":[
+         {
+            "name":"01TableBookingService",
+            "placeholder":"$01TableBookingService",
+            "required":"True",
+            "prompts":[
+               "Hello, this is Janice. How Can I help you?",
+               "Hi, this is Jance. How can I assist you?",
+               "Hi Good Morning, Welcome to Gateway Enquiry Service.",
+               "Good Morning, This is Janice at your services do you need help?",
+               "Good Morning, Janice here. Can I help you with a restaurant booking?",
+               "Hello, are you hungry? I can help you find a restaurant near you."
+            ],
+            "context":"Table_book_dialog"
+         },
+         {
+            "name":"02bookersname",
+            "placeholder":"$02bookersname",
+            "required":"True",
+            "prompts":[
+               "May I know your name please",
+			   "Can i know your name please",
+			   "Your good name please",
+			   "What is your name, for the record please",
+			   "Can you type your name please",
+			   "Please provide your name."
+            ],
+            "context":"Table_book_pname"
+         },
+         {
+            "name":"03phoneNumber",
+            "placeholder":"$03phoneNumber",
+            "required":"True",
+            "prompts":[
+               "Please provide your mobile number",
+			   "Can I take your mobile number?",
+			   "May I have your mobile number please.",
+			   "Can you give me a call back number.",
+			   "Can you give me your mobile number",
+			   "Can you give me a number on which we can contact you?",
+            ],
+            "context":"Table_book_pnum"
+         },
+         {
+            "name":"04location",
+            "placeholder":"$04location",
+            "required":"True",
+            "prompts":[
+               "Where do you want me to find a restaurant?",
+               "What location are you looking for a restaurant?",
+			   "Any preferred location",
+			   "Do you want me to search for a restaurant near you, if so what is your location",
+			   "I can help you find a restaurant on your way, which way are you going",
+			   "In which location do you want to find a restaurant"
+            ],
+            "context":"Table_book_numofpax"
+         },
+         {
+            "name":"05cuisine",
+            "placeholder":"$05cuisine",
+            "required":"True",
+            "prompts":[
+               "What is your cuisine preference?",
+			   "What is the type of food you would like to have?",
+			   "Do you want to have Chinese/Thai/Moghlai/South Indian/North Indian",
+			   "Cusine preference Please?",
+			   "Can you tell me what cuisine you would want to have today?",
+			   "What cuisine do you want to have today?"
+
+            ],
+            "context":"Table_book_date"
+         },
+         {
+            "name":"06Budget",
+            "placeholder":"$06Budget",
+            "required":"True",
+            "prompts":[
+               "What is your budget for dinner tonight",
+			   "Are you ok with a costly restaurant or want me to look for an economical one.",
+			   "Budget preference please ?",
+			   "Is it a special Night for you do you want to book a lavish restaurant?",
+			   "What is your preference low/standard/high budget range",
+			   "Are you looking for a pocket friendly or average or a lavish restaurant for tonight ?"
+            ],
+            "context":"Table_RestaurantBudget"
+         },
+         {
+            "name":"07RestaurantConfirmation",
+            "placeholder":"$07RestaurantConfirmation",
+            "required":"True",
+            "prompts":[
+               "Based on your preference above are the best I could find which one do you chose?",
+			   "Based on your input you have provided I could find the above restaurants which one do you chose?",
+			   "I could find these restaurants for you please chose any one to confirm",
+			   "List of restaurants have been displayed as per your preference please chose to proceed",
+			   "I see you are a food lover, The best is shown for you. Chose to proceed",
+			   "I like your preference, they are much like mine. I have found quite a few restaurants. Please chose your destination place?"
+            ],
+            "context":"Table_Restaurant_confirmation"
+         },
+         {
+            "name":"08Restauranthalt",
+            "placeholder":"$08Restauranthalt",
+            "required":"True",
+            "prompts":[
+               "If you are not interested in any of the above press exit to quit",
+			   "If you want to change your preference please quit and restart",
+			   "Please click on exit to quit the session",
+			   "Click exit to end session",
+			   "Not interested, press Quit/exit to stop the process",
+			   "Change in plans, click exit to quit",
+            ],
+            "context":"Table_Restaurantbook_stop"
+         }
+      ],
+      "actions":"BookTableRestaurantDone"
+   }
+}

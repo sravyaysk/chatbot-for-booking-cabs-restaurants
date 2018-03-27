@@ -1,0 +1,337 @@
+LOCATION,CUISINE,BUDGET,RESTAURANT,DISTANCE
+NORTH,CHINESE,Low,Dine O China,3
+NORTH,CHINESE,Low,Lunch O China,5
+NORTH,CHINESE,Low,Bowl O China,1
+NORTH,CHINESE,Low,Tim Toi,7
+NORTH,CHINESE,Low,Won King,3
+NORTH,CHINESE,Low,Pin Ching,5
+NORTH,CHINESE,Low,Ding Chang,8
+NORTH,CHINESE,Average,Mainland China,2
+NORTH,CHINESE,Average,Greenland China,9
+NORTH,CHINESE,Average,Yellowland China,3
+NORTH,CHINESE,Average,Dhinchak China,4
+NORTH,CHINESE,Average,Pinkchak China,4
+NORTH,CHINESE,Average,kinkchak China,3
+NORTH,CHINESE,Average,Linkchak China,6
+NORTH,CHINESE,Luxury,Rich o China,3
+NORTH,CHINESE,Luxury,Elegante China,9
+NORTH,CHINESE,Luxury,lux o china,1
+NORTH,CHINESE,Luxury,mahenga china,5
+NORTH,CHINESE,Luxury,costly china,2
+NORTH,CHINESE,Luxury,chi chi china,8
+NORTH,CHINESE,Luxury,di chi china,4
+SOUTH,CHINESE,Low,SDine O China,7
+SOUTH,CHINESE,Low,SLunch O China,3
+SOUTH,CHINESE,Low,SBowl O China,7
+SOUTH,CHINESE,Low,STim Toi,4
+SOUTH,CHINESE,Low,SWon King,6
+SOUTH,CHINESE,Low,SPin Ching,3
+SOUTH,CHINESE,Low,SDing Chang,7
+SOUTH,CHINESE,Average,SMainland China,2
+SOUTH,CHINESE,Average,SGreenland China,8
+SOUTH,CHINESE,Average,SYellowland China,3
+SOUTH,CHINESE,Average,SDhinchak China,4
+SOUTH,CHINESE,Average,SPinkchak China,7
+SOUTH,CHINESE,Average,Skinkchak China,5
+SOUTH,CHINESE,Average,SLinkchak China,6
+SOUTH,CHINESE,Luxury,SRich o China,9
+SOUTH,CHINESE,Luxury,SElegante China,0
+SOUTH,CHINESE,Luxury,Slux o china,5
+SOUTH,CHINESE,Luxury,Smahenga china,1
+SOUTH,CHINESE,Luxury,Scostly china,2
+SOUTH,CHINESE,Luxury,Schi chi china,3
+SOUTH,CHINESE,Luxury,Sdi chi china,4
+EAST,CHINESE,Low,EDine O China,5
+EAST,CHINESE,Low,ELunch O China,6
+EAST,CHINESE,Low,EBowl O China,7
+EAST,CHINESE,Low,ETim Toi,8
+EAST,CHINESE,Low,EWon King,9
+EAST,CHINESE,Low,EPin Ching,0
+EAST,CHINESE,Low,EDing Chang,0
+EAST,CHINESE,Average,EMainland China,9
+EAST,CHINESE,Average,EGreenland China,8
+EAST,CHINESE,Average,EYellowland China,7
+EAST,CHINESE,Average,EDhinchak China,6
+EAST,CHINESE,Average,EPinkchak China,5
+EAST,CHINESE,Average,Ekinkchak China,4
+EAST,CHINESE,Average,ELinkchak China,3
+EAST,CHINESE,Luxury,ERich o China,2
+EAST,CHINESE,Luxury,EElegante China,1
+EAST,CHINESE,Luxury,Elux o china,1
+EAST,CHINESE,Luxury,Emahenga china,3
+EAST,CHINESE,Luxury,Ecostly china,5
+EAST,CHINESE,Luxury,Echi chi china,7
+EAST,CHINESE,Luxury,Edi chi china,9
+WEST,CHINESE,Low,WDine O China,0
+WEST,CHINESE,Low,WLunch O China,8
+WEST,CHINESE,Low,WBowl O China,6
+WEST,CHINESE,Low,WTim Toi,4
+WEST,CHINESE,Low,WWon King,2
+WEST,CHINESE,Low,WPin Ching,1
+WEST,CHINESE,Low,WDing Chang,2
+WEST,CHINESE,Average,WMainland China,2
+WEST,CHINESE,Average,WGreenland China,3
+WEST,CHINESE,Average,WYellowland China,4
+WEST,CHINESE,Average,WDhinchak China,5
+WEST,CHINESE,Average,WPinkchak China,6
+WEST,CHINESE,Average,Wkinkchak China,7
+WEST,CHINESE,Average,WLinkchak China,8
+WEST,CHINESE,Luxury,WRich o China,9
+WEST,CHINESE,Luxury,WElegante China,0
+WEST,CHINESE,Luxury,Wlux o china,2
+WEST,CHINESE,Luxury,Wmahenga china,4
+WEST,CHINESE,Luxury,Wcostly china,6
+WEST,CHINESE,Luxury,Wchi chi china,8
+WEST,CHINESE,Luxury,Wdi chi china,0
+NORTH,THAI,Low,Dine O Thai,3
+NORTH,THAI,Low,Lunch O Thai,5
+NORTH,THAI,Low,Bowl O Thai,1
+NORTH,THAI,Low,Tim Toi,7
+NORTH,THAI,Low,Won King,3
+NORTH,THAI,Low,Pin Ching,5
+NORTH,THAI,Low,Ding Chang,8
+NORTH,THAI,Average,Mainland Thai,2
+NORTH,THAI,Average,Greenland Thai,9
+NORTH,THAI,Average,Yellowland Thai,3
+NORTH,THAI,Average,Dhinchak Thai,4
+NORTH,THAI,Average,Pinkchak Thai,4
+NORTH,THAI,Average,kinkchak Thai,3
+NORTH,THAI,Average,Linkchak Thai,6
+NORTH,THAI,Luxury,Rich o Thai,3
+NORTH,THAI,Luxury,Elegante Thai,9
+NORTH,THAI,Luxury,lux o Thai,1
+NORTH,THAI,Luxury,mahenga Thai,5
+NORTH,THAI,Luxury,costly Thai,2
+NORTH,THAI,Luxury,chi chi Thai,8
+NORTH,THAI,Luxury,di chi Thai,4
+SOUTH,THAI,Low,SDine O Thai,7
+SOUTH,THAI,Low,SLunch O Thai,3
+SOUTH,THAI,Low,SBowl O Thai,7
+SOUTH,THAI,Low,STim Toi,4
+SOUTH,THAI,Low,SWon King,6
+SOUTH,THAI,Low,SPin Ching,3
+SOUTH,THAI,Low,SDing Chang,7
+SOUTH,THAI,Average,SMainland Thai,2
+SOUTH,THAI,Average,SGreenland Thai,8
+SOUTH,THAI,Average,SYellowland Thai,3
+SOUTH,THAI,Average,SDhinchak Thai,4
+SOUTH,THAI,Average,SPinkchak Thai,7
+SOUTH,THAI,Average,Skinkchak Thai,5
+SOUTH,THAI,Average,SLinkchak Thai,6
+SOUTH,THAI,Luxury,SRich o Thai,9
+SOUTH,THAI,Luxury,SElegante Thai,0
+SOUTH,THAI,Luxury,Slux o Thai,5
+SOUTH,THAI,Luxury,Smahenga Thai,1
+SOUTH,THAI,Luxury,Scostly Thai,2
+SOUTH,THAI,Luxury,Schi chi Thai,3
+SOUTH,THAI,Luxury,Sdi chi Thai,4
+EAST,THAI,Low,EDine O Thai,5
+EAST,THAI,Low,ELunch O Thai,6
+EAST,THAI,Low,EBowl O Thai,7
+EAST,THAI,Low,ETim Toi,8
+EAST,THAI,Low,EWon King,9
+EAST,THAI,Low,EPin Ching,0
+EAST,THAI,Low,EDing Chang,0
+EAST,THAI,Average,EMainland Thai,9
+EAST,THAI,Average,EGreenland Thai,8
+EAST,THAI,Average,EYellowland Thai,7
+EAST,THAI,Average,EDhinchak Thai,6
+EAST,THAI,Average,EPinkchak Thai,5
+EAST,THAI,Average,Ekinkchak Thai,4
+EAST,THAI,Average,ELinkchak Thai,3
+EAST,THAI,Luxury,ERich o Thai,2
+EAST,THAI,Luxury,EElegante Thai,1
+EAST,THAI,Luxury,Elux o Thai,1
+EAST,THAI,Luxury,Emahenga Thai,3
+EAST,THAI,Luxury,Ecostly Thai,5
+EAST,THAI,Luxury,Echi chi Thai,7
+EAST,THAI,Luxury,Edi chi Thai,9
+WEST,THAI,Low,WDine O Thai,0
+WEST,THAI,Low,WLunch O Thai,8
+WEST,THAI,Low,WBowl O Thai,6
+WEST,THAI,Low,WTim Toi,4
+WEST,THAI,Low,WWon King,2
+WEST,THAI,Low,WPin Ching,1
+WEST,THAI,Low,WDing Chang,2
+WEST,THAI,Average,WMainland Thai,2
+WEST,THAI,Average,WGreenland Thai,3
+WEST,THAI,Average,WYellowland Thai,4
+WEST,THAI,Average,WDhinchak Thai,5
+WEST,THAI,Average,WPinkchak Thai,6
+WEST,THAI,Average,Wkinkchak Thai,7
+WEST,THAI,Average,WLinkchak Thai,8
+WEST,THAI,Luxury,WRich o Thai,9
+WEST,THAI,Luxury,WElegante Thai,0
+WEST,THAI,Luxury,Wlux o Thai,2
+WEST,THAI,Luxury,Wmahenga Thai,4
+WEST,THAI,Luxury,Wcostly Thai,6
+WEST,THAI,Luxury,Wchi chi Thai,8
+WEST,THAI,Luxury,Wdi chi Thai,0
+NORTH,INDIAN,Low,Dine O India,3
+NORTH,INDIAN,Low,Lunch O India,5
+NORTH,INDIAN,Low,Bowl O India,1
+NORTH,INDIAN,Low,Tim Toi India,7
+NORTH,INDIAN,Low,Won King India,3
+NORTH,INDIAN,Low,Apna desi,5
+NORTH,INDIAN,Low,Desi Khana,8
+NORTH,INDIAN,Average,Mainland India,2
+NORTH,INDIAN,Average,Greenland India,9
+NORTH,INDIAN,Average,Yellowland India,3
+NORTH,INDIAN,Average,Dhinchak India,4
+NORTH,INDIAN,Average,Pinkchak India,4
+NORTH,INDIAN,Average,kinkchak India,3
+NORTH,INDIAN,Average,Linkchak India,6
+NORTH,INDIAN,Luxury,Rich o India,3
+NORTH,INDIAN,Luxury,Elegante India,9
+NORTH,INDIAN,Luxury,lux o India,1
+NORTH,INDIAN,Luxury,mahenga India,5
+NORTH,INDIAN,Luxury,costly India,2
+NORTH,INDIAN,Luxury,chi chi India,8
+NORTH,INDIAN,Luxury,di chi India,4
+SOUTH,INDIAN,Low,SDine O India,7
+SOUTH,INDIAN,Low,SLunch O India,3
+SOUTH,INDIAN,Low,SBowl O India,7
+SOUTH,INDIAN,Low,STim Toi,4
+SOUTH,INDIAN,Low,SWon King,6
+SOUTH,INDIAN,Low,SPin Ching,3
+SOUTH,INDIAN,Low,SDing Chang,7
+SOUTH,INDIAN,Average,SMainland India,2
+SOUTH,INDIAN,Average,SGreenland India,8
+SOUTH,INDIAN,Average,SYellowland India,3
+SOUTH,INDIAN,Average,SDhinchak India,4
+SOUTH,INDIAN,Average,SPinkchak India,7
+SOUTH,INDIAN,Average,Skinkchak India,5
+SOUTH,INDIAN,Average,SLinkchak India,6
+SOUTH,INDIAN,Luxury,SRich o India,9
+SOUTH,INDIAN,Luxury,SElegante India,0
+SOUTH,INDIAN,Luxury,Slux o India,5
+SOUTH,INDIAN,Luxury,Smahenga India,1
+SOUTH,INDIAN,Luxury,Scostly India,2
+SOUTH,INDIAN,Luxury,Schi chi India,3
+SOUTH,INDIAN,Luxury,Sdi chi India,4
+EAST,INDIAN,Low,EDine O India,5
+EAST,INDIAN,Low,ELunch O India,6
+EAST,INDIAN,Low,EBowl O India,7
+EAST,INDIAN,Low,ETim Toi,8
+EAST,INDIAN,Low,EWon King,9
+EAST,INDIAN,Low,EPin Ching,0
+EAST,INDIAN,Low,EDing Chang,0
+EAST,INDIAN,Average,EMainland India,9
+EAST,INDIAN,Average,EGreenland India,8
+EAST,INDIAN,Average,EYellowland India,7
+EAST,INDIAN,Average,EDhinchak India,6
+EAST,INDIAN,Average,EPinkchak India,5
+EAST,INDIAN,Average,Ekinkchak India,4
+EAST,INDIAN,Average,ELinkchak India,3
+EAST,INDIAN,Luxury,ERich o India,2
+EAST,INDIAN,Luxury,EElegante India,1
+EAST,INDIAN,Luxury,Elux o India,1
+EAST,INDIAN,Luxury,Emahenga India,3
+EAST,INDIAN,Luxury,Ecostly India,5
+EAST,INDIAN,Luxury,Echi chi India,7
+EAST,INDIAN,Luxury,Edi chi India,9
+WEST,INDIAN,Low,WDine O India,0
+WEST,INDIAN,Low,WLunch O India,8
+WEST,INDIAN,Low,WBowl O India,6
+WEST,INDIAN,Low,WTim Toi,4
+WEST,INDIAN,Low,WWon King,2
+WEST,INDIAN,Low,WPin Ching,1
+WEST,INDIAN,Low,WDing Chang,2
+WEST,INDIAN,Average,WMainland India,2
+WEST,INDIAN,Average,WGreenland India,3
+WEST,INDIAN,Average,WYellowland India,4
+WEST,INDIAN,Average,WDhinchak India,5
+WEST,INDIAN,Average,WPinkchak India,6
+WEST,INDIAN,Average,Wkinkchak India,7
+WEST,INDIAN,Average,WLinkchak India,8
+WEST,INDIAN,Luxury,WRich o India,9
+WEST,INDIAN,Luxury,WElegante India,0
+WEST,INDIAN,Luxury,Wlux o India,2
+WEST,INDIAN,Luxury,Wmahenga India,4
+WEST,INDIAN,Luxury,Wcostly India,6
+WEST,INDIAN,Luxury,Wchi chi India,8
+WEST,INDIAN,Luxury,Wdi chi India,0
+NORTH,MOGHLAI,Low,Dine O Moghlai,3
+NORTH,MOGHLAI,Low,Lunch O Moghlai,5
+NORTH,MOGHLAI,Low,Bowl O Moghlai,1
+NORTH,MOGHLAI,Low,Akbar Darbar,7
+NORTH,MOGHLAI,Low,King moghal,3
+NORTH,MOGHLAI,Low,Moghal DB,5
+NORTH,MOGHLAI,Low,Ding Chang,8
+NORTH,MOGHLAI,Average,Mainland Moghlai,2
+NORTH,MOGHLAI,Average,Greenland Moghlai,9
+NORTH,MOGHLAI,Average,Yellowland Moghlai,3
+NORTH,MOGHLAI,Average,Dhinchak Moghlai,4
+NORTH,MOGHLAI,Average,Pinkchak Moghlai,4
+NORTH,MOGHLAI,Average,kinkchak Moghlai,3
+NORTH,MOGHLAI,Average,Linkchak Moghlai,6
+NORTH,MOGHLAI,Luxury,Rich o Moghlai,3
+NORTH,MOGHLAI,Luxury,Elegante Moghlai,9
+NORTH,MOGHLAI,Luxury,lux o Moghlai,1
+NORTH,MOGHLAI,Luxury,mahenga Moghlai,5
+NORTH,MOGHLAI,Luxury,costly Moghlai,2
+NORTH,MOGHLAI,Luxury,chi chi Moghlai,8
+NORTH,MOGHLAI,Luxury,di chi Moghlai,4
+SOUTH,MOGHLAI,Low,SDine O Moghlai,7
+SOUTH,MOGHLAI,Low,SLunch O Moghlai,3
+SOUTH,MOGHLAI,Low,SBowl O Moghlai,7
+SOUTH,MOGHLAI,Low,STim Toi,4
+SOUTH,MOGHLAI,Low,SWon King,6
+SOUTH,MOGHLAI,Low,SPin Ching,3
+SOUTH,MOGHLAI,Low,SDing Chang,7
+SOUTH,MOGHLAI,Average,SMainland Moghlai,2
+SOUTH,MOGHLAI,Average,SGreenland Moghlai,8
+SOUTH,MOGHLAI,Average,SYellowland Moghlai,3
+SOUTH,MOGHLAI,Average,SDhinchak Moghlai,4
+SOUTH,MOGHLAI,Average,SPinkchak Moghlai,7
+SOUTH,MOGHLAI,Average,Skinkchak Moghlai,5
+SOUTH,MOGHLAI,Average,SLinkchak Moghlai,6
+SOUTH,MOGHLAI,Luxury,SRich o Moghlai,9
+SOUTH,MOGHLAI,Luxury,SElegante Moghlai,0
+SOUTH,MOGHLAI,Luxury,Slux o Moghlai,5
+SOUTH,MOGHLAI,Luxury,Smahenga Moghlai,1
+SOUTH,MOGHLAI,Luxury,Scostly Moghlai,2
+SOUTH,MOGHLAI,Luxury,Schi chi Moghlai,3
+SOUTH,MOGHLAI,Luxury,Sdi chi Moghlai,4
+EAST,MOGHLAI,Low,EDine O Moghlai,5
+EAST,MOGHLAI,Low,ELunch O Moghlai,6
+EAST,MOGHLAI,Low,EBowl O Moghlai,7
+EAST,MOGHLAI,Low,ETim Toi,8
+EAST,MOGHLAI,Low,EWon King,9
+EAST,MOGHLAI,Low,EPin Ching,0
+EAST,MOGHLAI,Low,EDing Chang,0
+EAST,MOGHLAI,Average,EMainland Moghlai,9
+EAST,MOGHLAI,Average,EGreenland Moghlai,8
+EAST,MOGHLAI,Average,EYellowland Moghlai,7
+EAST,MOGHLAI,Average,EDhinchak Moghlai,6
+EAST,MOGHLAI,Average,EPinkchak Moghlai,5
+EAST,MOGHLAI,Average,Ekinkchak Moghlai,4
+EAST,MOGHLAI,Average,ELinkchak Moghlai,3
+EAST,MOGHLAI,Luxury,ERich o Moghlai,2
+EAST,MOGHLAI,Luxury,EElegante Moghlai,1
+EAST,MOGHLAI,Luxury,Elux o Moghlai,1
+EAST,MOGHLAI,Luxury,Emahenga Moghlai,3
+EAST,MOGHLAI,Luxury,Ecostly Moghlai,5
+EAST,MOGHLAI,Luxury,Echi chi Moghlai,7
+EAST,MOGHLAI,Luxury,Edi chi Moghlai,9
+WEST,MOGHLAI,Low,WDine O Moghlai,0
+WEST,MOGHLAI,Low,WLunch O Moghlai,8
+WEST,MOGHLAI,Low,WBowl O Moghlai,6
+WEST,MOGHLAI,Low,WTim Toi,4
+WEST,MOGHLAI,Low,WWon King,2
+WEST,MOGHLAI,Low,WPin Ching,1
+WEST,MOGHLAI,Low,WDing Chang,2
+WEST,MOGHLAI,Average,WMainland Moghlai,2
+WEST,MOGHLAI,Average,WGreenland Moghlai,3
+WEST,MOGHLAI,Average,WYellowland Moghlai,4
+WEST,MOGHLAI,Average,WDhinchak Moghlai,5
+WEST,MOGHLAI,Average,WPinkchak Moghlai,6
+WEST,MOGHLAI,Average,Wkinkchak Moghlai,7
+WEST,MOGHLAI,Average,WLinkchak Moghlai,8
+WEST,MOGHLAI,Luxury,WRich o Moghlai,9
+WEST,MOGHLAI,Luxury,WElegante Moghlai,0
+WEST,MOGHLAI,Luxury,Wlux o Moghlai,2
+WEST,MOGHLAI,Luxury,Wmahenga Moghlai,4
+WEST,MOGHLAI,Luxury,Wcostly Moghlai,6
+WEST,MOGHLAI,Luxury,Wchi chi Moghlai,8
+WEST,MOGHLAI,Luxury,Wdi chi Moghlai,0
